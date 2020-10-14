@@ -7,8 +7,8 @@
 -- Table structure for table exp.
 --
 CREATE TABLE caeschema.exp (
-  exp_col INTEGER ,
-CONSTRAINT exp_col_PK PRIMARY KEY (exp_col)
+  exp_col2 INTEGER ,
+CONSTRAINT exp_col2_PK PRIMARY KEY (exp_col2)
  
 );
 

@@ -81,9 +81,9 @@ public class TestRes extends RESTService {
 
   @Api
   @SwaggerDefinition(
-      info = @Info(title = "309", version = "$Metadata_Version$",
-          description = "$Metadata_Description$",
-          termsOfService = "$Metadata_Terms$",
+      info = @Info(title = "309", version = "",
+          description = "",
+          termsOfService = "",
           contact = @Contact(name = "Philipp", email = "CAEAddress@gmail.com") ,
           license = @License(name = "BSD",
               url = "https://github.com/PhilCAEOrg/microservice-309/blob/master/LICENSE.txt") ) )
